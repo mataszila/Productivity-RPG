@@ -22,10 +22,11 @@
             />
 
         <Button
-            android:id="@+id/material_unelevated_button"
+            android:id="@+id/add_skill_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Add"/>
+            android:text="Add"
+            />
 
 
 
